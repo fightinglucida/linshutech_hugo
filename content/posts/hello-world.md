@@ -1,19 +1,19 @@
 +++
 date = '2025-03-28T11:20:07+08:00'
 draft = false
-title = '欢迎来到中国科技网站'
+title = 'Welcome to China Technology Website'
 +++
 
-# 欢迎访问我们的网站
+# Welcome to Our Website
 
-这是我们使用Hugo创建的静态网站的第一篇文章。Hugo是一个非常强大的静态网站生成器，它可以帮助我们快速创建高性能的网站。
+This is the first article of our static website created with Hugo. Hugo is a powerful static site generator that helps us create high-performance websites quickly.
 
-## 关于我们
+## About Us
 
-我们专注于提供最新的科技资讯和技术分享，希望能够帮助更多的人了解科技发展趋势。
+We focus on providing the latest technology news and technical sharing, hoping to help more people understand technology development trends.
 
-## 联系我们
+## Contact Us
 
-如果您有任何问题或建议，请随时与我们联系。
+If you have any questions or suggestions, please feel free to contact us.
 
-感谢您的访问！
+Thank you for your visit!
